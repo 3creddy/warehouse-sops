@@ -1,3 +1,11 @@
+---
+title: Home
+path: /
+published: true
+---
+
+
+
 # Warehouse Operations Manual
 **Purple Octopus Ventures LLP – Dive Gear Equipment Distribution**
 
