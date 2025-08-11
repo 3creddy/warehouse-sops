@@ -1,29 +1,42 @@
+---
+title: SOP-WH-002 – Receiving Goods
+path: /en/SOP-WH-002
+published: true
+---
+
 # SOP-WH-002 – Receiving Goods
+**Version:** 1.1  
+**Effective Date:** TBD  
+**Last Review Date:** TBD  
+**Approved By:** TBD  
 
-**Purpose**  
-High-level policy defining the "what & why" of this process.
+## Purpose
+To ensure that all inbound goods are received in an accurate, traceable, and timely manner, with proper documentation, inspection, and discrepancy resolution.
 
-**Scope**  
-Sites/teams to which this SOP applies.
+## Scope
+Applies to all inbound shipments received at Purple Octopus Ventures LLP’s Dive Gear Equipment Distribution warehouse, including supplier deliveries, returns, and inter-warehouse transfers.
 
-**Policy Statement**  
-Concise statement of the company’s approach/standards for this process.
+## Policy Statement
+- No goods may be received without a Purchase Order (PO) in the Unicommerce system.  
+- If a PO is not already available in Unicommerce, one must be created before goods are processed.  
+- All goods must be physically inspected for visible damages **before** scanning.  
+- All goods must be barcode scanned to capture SKU and quantity.  
+- All discrepancies (damaged, short, overshipped) must be resolved before putaway.  
+- All discrepancies must be documented through the NCPR process.
 
-**Responsibilities**  
-- Warehouse Manager – oversight and approval  
-- Warehouse Staff – execution  
-- Customer Service – as applicable  
+## Responsibilities
+- **Warehouse Staff:**  
+  - Ensure PO exists before receiving goods.  
+  - Perform inspection and barcode scanning.  
+  - Complete discrepancy reporting and follow-up.  
+- **Warehouse Manager:**  
+  - Approve PO creation if missing.  
+  - Review and sign off on discrepancy reports (NCPR).  
 
-**Key Process Overview**  
-- Summarize the main stages (do not include micro-steps)
-
-**Linked Work Instructions (WIs)**  
-- [WI-WH-002-A](/WI-WH-002-A) – Goods Receipt
-- [WI-WH-002-B](/WI-WH-002-B) – NCPR – Non-Conforming Product Reporting
-- [WI-WH-002-C](/WI-WH-002-C) – Putaway
-
-**Related Forms/Templates**  
-- Link forms from `/forms` when available
-
-**Version Control**  
-- Last updated: 2025-08-11
+## Key Process Overview
+1. PO Verification in Unicommerce (WI-WH-002-A)  
+2. PO Creation in Unicommerce (WI-WH-002-B)  
+3. Physical Inspection & Goods Receipt (WI-WH-002-C)  
+4. Barcode Scanning & System Entry (WI-WH-002-D)  
+5. NCPR – Non-Conforming Product Reporting (WI-WH-002-E)  
+6. Putaway (WI-WH-002-F)  
