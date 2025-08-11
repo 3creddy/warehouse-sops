@@ -1,26 +1,8 @@
-# WI-WH-003-B – Monthly Inventory Audit
+---
+title: WI-WH-003-B – Short Stock Investigation & Write-off
+path: /en/WI-WH-003-B
+published: true
+---
 
-**Linked SOP**: [SOP-WH-003](/SOP-WH-003)
-
-**Purpose**  
-Describe the intended outcome of this WI.
-
-**Scope**  
-Where/when this WI applies.
-
-**Tools & Materials**  
-- List tools, forms, PPE
-
-**Procedure**  
-1. Step one…  
-2. Step two…  
-3. Step three…  
-
-**Safety/Quality Notes**  
-- Hazards, checks, photos/screenshots as needed
-
-**Records**  
-- Which logs/screens to update
-
-**Version Control**  
-- Last updated: 2025-08-11
+# WI-WH-003-B – Short Stock Investigation & Write-off
+*Placeholder – detailed steps to be documented later.*
